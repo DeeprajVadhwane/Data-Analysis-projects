@@ -1,7 +1,7 @@
 # IPL Insights 🏏🏆📈
 
 <p align="center">
-  <img src="20-21-sixteen_nine.avif" width="350" title="ipl">
+  <img src="20-21-sixteen_nine.avif" width="450" title="ipl">
 </p>
 
 Ready to take your IPL experience to the next level? Let's dive into the heart of cricket with our groundbreaking data insights! 📊
