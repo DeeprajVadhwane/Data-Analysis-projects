@@ -1,4 +1,4 @@
-# IPL Insights 🏏🏆📈
+<h1 aligh="center"> IPL Insights 🏏🏆📈  </h1>
 
 <p align="center">
   <img src="20-21-sixteen_nine.avif" width="450" title="ipl">
