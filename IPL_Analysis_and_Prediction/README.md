@@ -6,8 +6,8 @@ The IPL isn't just a tournament; it's a global phenomenon that sparks passion an
 
 ## Uncover Actionable Insights:
 
-1️⃣ **Explore the Titans of the Bat:** Total Runs Scored by Batsmen Across Seasons
-2️⃣ **Delve into Year-wise Brilliance:** Batsman Year-wise Score Analysis
+- 1️⃣ **Explore the Titans of the Bat:** Total Runs Scored by Batsmen Across Seasons
+- 2️⃣ **Delve into Year-wise Brilliance:** Batsman Year-wise Score Analysis
 3️⃣ **Witness the Clash of the Titans:** Comparing Two Teams' Performances
 4️⃣ **Experience the Bowling Blitz:** Total Runs Scored Against Each Bowler in Specific Overs
 5️⃣ **Decode Toss Strategies:** Toss Decisions Trends Across Seasons
