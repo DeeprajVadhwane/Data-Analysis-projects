@@ -5,16 +5,24 @@ Ready to take your IPL experience to the next level? Let's dive into the heart o
 The IPL isn't just a tournament; it's a global phenomenon that sparks passion and excitement like no other. 🌍 But why settle for mere thrills when you can uncover the captivating narratives hidden within the numbers? 🚀
 
 ## Uncover Actionable Insights:
+ 1️⃣ **Explore the Titans of the Bat:** Total Runs Scored by Batsmen Across Seasons
+ 
+ 2️⃣ **Delve into Year-wise Brilliance:** Batsman Year-wise Score Analysis
 
-- 1️⃣ **Explore the Titans of the Bat:** Total Runs Scored by Batsmen Across Seasons
-- 2️⃣ **Delve into Year-wise Brilliance:** Batsman Year-wise Score Analysis
 3️⃣ **Witness the Clash of the Titans:** Comparing Two Teams' Performances
+
 4️⃣ **Experience the Bowling Blitz:** Total Runs Scored Against Each Bowler in Specific Overs
+
 5️⃣ **Decode Toss Strategies:** Toss Decisions Trends Across Seasons
+
 6️⃣ **Meet the Toss Titans:** Identifying Maximum Toss Winners
+
 7️⃣ **From Toss to Triumph:** Toss Winners Who Also Clinched the Match
+
 8️⃣ **Discover Grounds of Glory:** Favorite Grounds for Toss Winners
+
 9️⃣ **Indulge in MVP Mania:** Max Man of the Match Revelations
+
 🔟 **Witness the Run Riot:** Total Runs Accumulated by Batting Teams
 
 ## Delve into IPL Auctions:
